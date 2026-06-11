@@ -145,7 +145,8 @@ Contributions are welcome.
 ## Author
 
 **Sri Chandra Pappu**
-**www.linkedin.com/in/chandrapappu1609**
+
+**Linkedin : www.linkedin.com/in/chandrapappu1609**
 
 Passionate about building technology that connects people, supports learning, and creates opportunities for growth.
 
